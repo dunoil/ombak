@@ -1,0 +1,37 @@
+OMBAK
+
+Ombak — Bali Swell Service · Friday, 20 November 2026
+
+SELAMAT PAGI, {{first_name}}
+
+The swell of the month arrives overnight: a long-period groundswell lights up the Bukit reefs at dawn, offshore until late morning, while the beach breaks stay friendly for everyone else. One forecast file produced every alert, chart and card in this kit.
+
+6 breaks · biggest 2.1m at Padang Padang · 4 epic
+
+Epic today — 4 breaks firing
+
+Padang Padang — 2.1m at 14s, offshore wind. Best 06:30–09:30, mid tide pushing in. The left of the season so far. Deep, fast, and shallow inside — experts only, leash up, respect the locals' priority.
+
+Uluwatu — 1.9m at 14s, offshore wind. Best 06:00–10:00, all tides on the lower reef. Every section working — Temples through the Racetrack. The paddle out is the price of admission.
+
+Bingin — 1.5m at 13s, offshore wind. Best 07:00–10:30, low-to-mid tide. Mechanical little barrels over the reef. Too shallow at dead low; wait for the push.
+
+Sanur Reef — 1.6m at 13s, offshore wind. Best 07:30–11:00, mid-to-high tide only. The east coast wakes up on big swells: a long right over the reef, boat access only, and it needs the tide. Miss the window and it is a lake.
+
+EVERY BREAK TODAY
+
+Break | Swell | Period | Best window
+Padang Padang · EPIC | 2.1m | 14s | 06:30–09:30, mid tide pushing in
+Uluwatu · EPIC | 1.9m | 14s | 06:00–10:00, all tides on the lower reef
+Bingin · EPIC | 1.5m | 13s | 07:00–10:30, low-to-mid tide
+Balangan | 1.4m | 12s | 06:30–09:00, before the wind
+Batu Bolong, Canggu | 0.9m | 11s | 06:00–08:30, dawn glass
+Sanur Reef · EPIC | 1.6m | 13s | 07:30–11:00, mid-to-high tide only
+
+See the full swell chart (https://ombak.example/today)
+
+Ombak · Bali Swell Service · Respect the lineup, leave the beach cleaner than you found it
+
+One swell file rendered this — dawn alert, swell page, break charts and session cards — with Hyper Elements.
+
+You receive dawn alerts because you surf with Ombak. Unsubscribe ({{unsubscribe_url}})
