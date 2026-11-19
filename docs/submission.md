@@ -1,4 +1,6 @@
-# Competition submission — OMBAK (posted 19 Nov 2026 as a bonus entry)
+# Competition submission — OMBAK — POSTED 19 Nov 2026 (bonus entry)
+
+Live: https://github.com/hyper-elements/hyper-elements/discussions/284 (Discussion #284, Challenge Submissions)
 
 Target: GitHub Discussions → **Challenge Submissions** in `hyper-elements/hyper-elements`
 Repository: https://github.com/dunoil/ombak
